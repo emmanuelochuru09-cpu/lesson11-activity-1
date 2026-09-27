@@ -1,0 +1,27 @@
+Body {
+    background-color: darkgreen;
+    font-family: Arial, sans-serif;
+}
+
+.fact-file {
+    background-color: lightyellow;
+    color: darkslategray;
+    width: 260px;
+    padding: 25px;
+    border: 4px;
+    margin: 30px;
+}
+
+.animal-name {
+    color: forestgreen;
+    font-size: 22px;
+}
+
+.foot {
+    color: darkslategray;
+}
+
+.cool-fact {
+    color: darkorange;
+    font-style: italic;
+}
